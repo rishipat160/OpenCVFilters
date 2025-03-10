@@ -3,7 +3,7 @@
 ## Author
 Rishi Patel
 
-## Due Date
+## Date
 January 23, 2025
 
 ## Overview
@@ -14,10 +14,6 @@ Real-time video processing application that captures video from a camera and app
 - Visual Studio Code
 - MSVC (x64 Native Tools Command Prompt)
 - Make
-
-## Dependencies
-- OpenCV 4.11.0 at `c:\Users\rishi\Desktop\CV\opencv\build\x64\vc16\`
-- ONNX Runtime 1.20.1 at `c:\Users\rishi\Desktop\CV\onnxruntime-win-x64-1.20.1\`
 
 ## Project Structure
 - `bin/`: Compiled executables and DLLs
